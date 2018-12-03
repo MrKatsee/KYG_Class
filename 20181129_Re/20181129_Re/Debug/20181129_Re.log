@@ -1,0 +1,12 @@
+﻿  main.c
+c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\20181129_re\20181129_re\main.c(20): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\20181129_re\20181129_re\main.c(20): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\20181129_re\20181129_re\main.c(22): warning C4013: 'atoi' undefined; assuming extern returning int
+c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\20181129_re\20181129_re\main.c(37): warning C4013: 'system' undefined; assuming extern returning int
+  function.c
+c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\20181129_re\20181129_re\function.c(5): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\20181129_re\20181129_re\function.c(139): warning C4013: 'free' undefined; assuming extern returning int
+  Generating Code...
+c:\users\ghtjd\onedrive\문서\visual studio 2015\projects\20181129_re\20181129_re\function.c(152): warning C4715: 'deleteNode': not all control paths return a value
+  20181129_Re.vcxproj -> C:\Users\ghtjd\onedrive\문서\visual studio 2015\Projects\20181129_Re\Debug\20181129_Re.exe
+  20181129_Re.vcxproj -> C:\Users\ghtjd\onedrive\문서\visual studio 2015\Projects\20181129_Re\Debug\20181129_Re.pdb (Partial PDB)

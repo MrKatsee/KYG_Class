@@ -1,7 +1,0 @@
-﻿  Source.c
-c:\users\ghtjd\onedrive\문서\kyg_class\20181115\20181115\source.c(47): warning C4013: 'system' undefined; assuming extern returning int
-c:\users\ghtjd\onedrive\문서\kyg_class\20181115\20181115\source.c(52): warning C4013: 'malloc' undefined; assuming extern returning int
-c:\users\ghtjd\onedrive\문서\kyg_class\20181115\20181115\source.c(52): warning C4047: 'initializing': '_info **' differs in levels of indirection from '_info *'
-c:\users\ghtjd\onedrive\문서\kyg_class\20181115\20181115\source.c(96): warning C4013: 'strcmp' undefined; assuming extern returning int
-  20181115.vcxproj -> C:\Users\ghtjd\OneDrive\문서\KYG_Class\20181115\Debug\20181115.exe
-  20181115.vcxproj -> C:\Users\ghtjd\OneDrive\문서\KYG_Class\20181115\Debug\20181115.pdb (Partial PDB)
