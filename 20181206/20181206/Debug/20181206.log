@@ -1,6 +1,6 @@
-﻿  Source.c
-c:\users\ghtjd\onedrive\문서\kyg_class\20181206\20181206\source.c(30): warning C4013: 'malloc' undefined; assuming extern returning int
-c:\users\ghtjd\onedrive\문서\kyg_class\20181206\20181206\source.c(53): warning C4013: 'free' undefined; assuming extern returning int
-c:\users\ghtjd\onedrive\문서\kyg_class\20181206\20181206\source.c(57): warning C4013: 'system' undefined; assuming extern returning int
+﻿  20185784.c
+c:\users\ghtjd\onedrive\문서\kyg_class\20181206\20181206\20185784.c(30): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\ghtjd\onedrive\문서\kyg_class\20181206\20181206\20185784.c(53): warning C4013: 'free' undefined; assuming extern returning int
+c:\users\ghtjd\onedrive\문서\kyg_class\20181206\20181206\20185784.c(57): warning C4013: 'system' undefined; assuming extern returning int
   20181206.vcxproj -> C:\Users\ghtjd\OneDrive\문서\KYG_Class\20181206\Debug\20181206.exe
   20181206.vcxproj -> C:\Users\ghtjd\OneDrive\문서\KYG_Class\20181206\Debug\20181206.pdb (Partial PDB)

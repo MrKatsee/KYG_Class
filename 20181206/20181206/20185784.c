@@ -59,8 +59,8 @@ int main(int argc, char ** argv)
 
 int CountFile(char * fileStr, int mode)
 {
-	char * delimiterLine = ".?!";
-	char * delimiterWord = " ";
+	char * delimiterLine = "\n";
+	char * delimiterWord = " \n";
 	int count = 0;
 	char * str = (char*)malloc(sizeof(char) * (strlen(fileStr) + 1));
 	strcpy(str, fileStr);
